@@ -63,6 +63,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="35" alt="linkedin logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" width="68" height="35" alt="leetcode logo" />
 </div>
 
 ###
