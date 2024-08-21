@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">
  ##🚀 About Me
 - 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 - 🏆 **Achievements**:
@@ -17,8 +16,6 @@
   - Leading Teams and People Specialization - University of Michigan
   - Blockchain Foundation and Scope Practices - INSEAD
   - AI Foundations for Everyone - IBM
-
-</p>
 
 ###
 
