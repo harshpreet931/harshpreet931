@@ -5,7 +5,7 @@
  ## 🚀 About Me
 - 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 - 🏆 **Achievements**:
-  - Shortlisted for Smart India Hackathon 2023, Top 30 out of 300 teams
+  - Shortlisted for Smart India Hackathon 2023, Top 30 out of 300 teams in University
   - Ranked in Top 3% out of 2400 students at University Coding Academy
   - 1750+ Rating on LeetCode with 750+ problems solved
 ## 🏅 Awards & Certifications
