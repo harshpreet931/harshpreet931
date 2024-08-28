@@ -60,5 +60,6 @@
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpreet931&theme=dark" alt="harshpreet931" /></div>
 
 ###
-<h2 align="left">Medium Articles</h2>
-[![Harshpreet Medium](https://github-readme-medium.vercel.app/?username=harshpreet0402)](https://medium.com/@harshpreet0402)
+<p align="left">
+<a href="https://medium.com/@harshpreet0402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpreet0402" height="30" width="40" /></a>
+</p>
