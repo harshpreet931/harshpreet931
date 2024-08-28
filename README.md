@@ -58,3 +58,7 @@
 
 ###
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpreet931&theme=dark" alt="harshpreet931" /></div>
+
+###
+<h2 align="left">Medium Articles</h2>
+[![Harshpreet Medium](https://github-readme-medium.vercel.app/?username=harshpreet0402)](https://medium.com/@harshpreet0402)
