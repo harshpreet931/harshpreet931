@@ -16,6 +16,12 @@
   - Leading Teams and People Specialization - University of Michigan
   - Blockchain Foundation and Scope Practices - INSEAD
   - AI Foundations for Everyone - IBM
+###
+
+## <a href="https://medium.com/@harshpreet0402" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpreet0402" height="30" width="40" /> </a> My Medium Articles
+
+- [Backtracking in 15 Minutes](https://medium.com/@harshpreet0402/backtracking-in-15-minutes-800de323e00f)  
+  *(more to come...)*
 
 ###
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpreet931&theme=dark" alt="harshpreet931" /></div>
@@ -56,7 +62,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
 
-###
-<p align="center">
-<a href="https://medium.com/@harshpreet0402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpreet0402" height="30" width="40" /></a>
-</p>
+
