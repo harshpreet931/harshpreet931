@@ -20,7 +20,8 @@
 
 ## <a href="https://medium.com/@harshpreet0402" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpreet0402" height="30" width="40" /> </a> My Medium Articles
 
-- [Backtracking in 15 Minutes](https://medium.com/@harshpreet0402/backtracking-in-15-minutes-800de323e00f)  
+- [Backtracking in 15 Minutes](https://medium.com/@harshpreet0402/backtracking-in-15-minutes-800de323e00f)
+- [Master Trees: The Complete Guide to Crush Your Coding Interviews + Binary Tree Bonus Interview Problems](https://medium.com/@harshpreet0402/master-trees-the-complete-guide-to-crush-your-coding-interviews-binary-tree-bonus-interview-a362271544b4)
   *(more to come...)*
 
 ###
