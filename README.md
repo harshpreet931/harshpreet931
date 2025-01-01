@@ -7,7 +7,7 @@
 - 🏆 **Achievements**:
   - Shortlisted for Smart India Hackathon 2023, Top 30 out of 300 teams in University
   - Ranked in Top 3% out of 2400 students at University Coding Academy
-  - 1800+ Rating on LeetCode with 750+ problems solved
+  - 1800+ Rating on LeetCode with 900+ problems solved
 ## 🏅 Awards & Certifications
 - **Star Programmer** & **Dean’s List Member**
 - **Certifications**:
