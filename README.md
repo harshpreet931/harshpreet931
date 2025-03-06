@@ -22,6 +22,7 @@
 
 - [Backtracking in 15 Minutes](https://medium.com/@harshpreet0402/backtracking-in-15-minutes-800de323e00f)
 - [Master Trees: The Complete Guide to Crush Your Coding Interviews + Binary Tree Bonus Interview Problems](https://medium.com/@harshpreet0402/master-trees-the-complete-guide-to-crush-your-coding-interviews-binary-tree-bonus-interview-a362271544b4)
+- [All the Operating System Concepts You Need to Know.](https://medium.com/@harshpreet0402/all-the-operating-system-concepts-you-need-to-know-b697bfeb3f9f)
 
   *(more to come...)*
 
