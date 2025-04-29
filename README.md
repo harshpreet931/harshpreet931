@@ -2,13 +2,13 @@
 
 ###
 
- ## 🚀 About
+ ## About
 - 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 - 🏆 **Achievements**:
   - Shortlisted for Smart India Hackathon 2023, Top 30 out of 300 teams in University
   - Ranked in Top 3% out of 2400 students at University Coding Academy
   - 1800+ Rating on LeetCode with 900+ problems solved
-## 🏅 Awards & Certifications
+## Awards & Certifications
 - **Star Programmer** & **Dean’s List Member**
 - **Certifications**:
   - Cyber Security and Privacy - NPTEL
@@ -16,6 +16,9 @@
   - Leading Teams and People Specialization - University of Michigan
   - Blockchain Foundation and Scope Practices - INSEAD
   - AI Foundations for Everyone - IBM
+---
+ ### Proud Co-Founder of https://letshelp.co.in/ 
+---
 ###
 
 ## <a href="https://medium.com/@harshpreet0402" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpreet0402" height="30" width="40" /> </a> My Medium Articles
@@ -27,6 +30,7 @@
   *(more to come...)*
 
 ###
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpreet931&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
