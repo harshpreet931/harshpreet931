@@ -1,10 +1,10 @@
-<h2 align="left">Hola! I am Harshpreet Singh :)</h2>
+<h2 align="left"><a href="https://www.harshpreet.com" target="_blank" rel="noopener noreferrer">Hola! I am Harshpreet Singh :)</a></h2>
 
 ###
 
  ## About
-- 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
-- 🏆 **Achievements**:
+- **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
+- **Achievements**:
   - Shortlisted for Smart India Hackathon 2023, Top 30 out of 300 teams in University
   - Ranked in Top 3% out of 2400 students at University Coding Academy
   - 1800+ Rating on LeetCode with 900+ problems solved
