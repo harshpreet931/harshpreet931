@@ -6,7 +6,7 @@
 <br>
 <br>
 
-i build agentic systems and developer tools at [juspay](https://juspay.io). i like going a layer down (c, databases, quantized models on apple silicon) and then making whatever sits on top feel good. lately i've been taking llms apart and explaining what i find on [youtube](https://www.youtube.com/@ThatNotesGuy) :)
+i build agentic systems and developer tools at [juspay](https://juspay.io). i like going a layer down (c, databases and indepth into llms and ml models) and then making whatever sits on top feel good. lately i've been taking llms apart and explaining what i find on [youtube](https://www.youtube.com/@ThatNotesGuy) :)
 
 <h2>
   <picture>
@@ -15,14 +15,14 @@ i build agentic systems and developer tools at [juspay](https://juspay.io). i li
   </picture>
 </h2>
 
-**[undertone](https://github.com/harshpreet931/undertone)** — dictation for macos that never leaves your mac. parakeet, on the neural engine.<br>
-**[anyview](https://github.com/harshpreet931/anyview)** — any document, rendered natively in react. pdf, docx, xlsx, pptx. no iframes, no uploads.<br>
-**[agent spotlight](https://github.com/harshpreet931/agent-spotlight)** — a spotlight-style desktop agent with mcp, in rust and tauri.<br>
-**[cut](https://github.com/harshpreet931/cut)** — an editor that can't write. it can only cut.<br>
-**[harshpreet hand](https://harshpreet.com/?theme=handwritten)** — my handwriting as a font, built from 120 pages of networks notes.<br>
-**[edge inference](https://github.com/harshpreet931/Low-Power-Edge-Inference-for-Green-Computing)** — a paper on post-training quantization for low-power inference on apple silicon.<br>
-**in c** — a [naive bayes spam classifier](https://github.com/harshpreet931/Spam-Email-Classification-In-C) and a [sqlite clone](https://github.com/harshpreet931/sqlite), from scratch.<br>
-**[let's help everyone](https://www.letshelp.co.in)** — free study resources for cse students. 200k+ views.
+**[undertone](https://github.com/harshpreet931/undertone)**: dictation for macos that never leaves your mac. parakeet, on the neural engine.<br>
+**[anyview](https://github.com/harshpreet931/anyview)**: any document, rendered natively in react. pdf, docx, xlsx, pptx. no iframes, no uploads.<br>
+**[agent spotlight](https://github.com/harshpreet931/agent-spotlight)**: a spotlight-style desktop agent with mcp, in rust and tauri.<br>
+**[cut](https://github.com/harshpreet931/cut)**: an editor that can't write. it can only cut.<br>
+**[harshpreet hand](https://harshpreet.com/?theme=handwritten)**: my handwriting as a font, built from 120 pages of networks notes.<br>
+**[edge inference](https://github.com/harshpreet931/Low-Power-Edge-Inference-for-Green-Computing)**: a paper on post-training quantization for low-power inference on apple silicon.<br>
+**in c**: a [naive bayes spam classifier](https://github.com/harshpreet931/Spam-Email-Classification-In-C) and a [sqlite clone](https://github.com/harshpreet931/sqlite), from scratch.<br>
+**[let's help everyone](https://www.letshelp.co.in)**: free study resources for cse students. 200k+ views.
 
 <h2>
   <picture>
