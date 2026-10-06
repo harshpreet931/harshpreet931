@@ -6,7 +6,7 @@
 <br>
 <br>
 
-i build agentic systems and developer tools at [juspay](https://juspay.io). i like going a layer down (c, databases and indepth into llms and ml models) and then making whatever sits on top feel good. lately i've been taking llms apart and explaining what i find on [youtube](https://www.youtube.com/@ThatNotesGuy) :)
+i build agentic systems and developer tools at [juspay](https://juspay.io). right now that's mostly [xyne spaces](https://github.com/juspay/xyne-spaces), the ai org-os where humans and agents work together, and i'm its top contributor. i like going a layer down (c, databases and indepth into llms and ml models) and then making whatever sits on top feel good. lately i've been taking llms apart and explaining what i find on [youtube](https://www.youtube.com/@ThatNotesGuy) :)
 
 <h2>
   <picture>
