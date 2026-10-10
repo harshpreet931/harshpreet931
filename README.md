@@ -32,9 +32,9 @@ i build agentic systems and developer tools at [juspay](https://juspay.io). righ
 </h2>
 
 <!-- notes:start -->
+<a href="https://www.youtube.com/watch?v=k_kY-8tQJTg">Jev Explained: The AI That Never Writes a Word</a> <sub>video&nbsp;·&nbsp;oct&nbsp;2026</sub><br>
 <a href="https://www.youtube.com/watch?v=SvFRop4g2qI">KV Cache Explained: Why Output Tokens Cost More Than Input</a> <sub>video&nbsp;·&nbsp;oct&nbsp;2026</sub><br>
 <a href="https://www.youtube.com/watch?v=qMlHSdM-g7Y">How Do LLMs Actually Know Facts?</a> <sub>video&nbsp;·&nbsp;aug&nbsp;2026</sub><br>
-<a href="https://www.youtube.com/watch?v=854iw6Bzbms">How LLMs Actually Work: From Tokens to Attention to RLHF</a> <sub>video&nbsp;·&nbsp;jun&nbsp;2026</sub><br>
 <a href="https://harshpreet.com/blog/event-based-concurrency">The Hidden Genius of Event Based Concurrency</a> <sub>post&nbsp;·&nbsp;jul&nbsp;2025</sub><br>
 <a href="https://harshpreet.com/blog/operating-system-concepts">All the Operating System Concepts You Need to Know.</a> <sub>post&nbsp;·&nbsp;feb&nbsp;2025</sub><br>
 <a href="https://harshpreet.com/blog/dijkstras-algorithm">Dijkstra's Algorithm is Actually Super Simple</a> <sub>post&nbsp;·&nbsp;jan&nbsp;2025</sub>
