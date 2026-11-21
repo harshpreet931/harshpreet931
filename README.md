@@ -32,9 +32,9 @@ i build agentic systems and developer tools at [juspay](https://juspay.io). righ
 </h2>
 
 <!-- notes:start -->
+<a href="https://www.youtube.com/watch?v=Xo11BAfi0Lg">Bloom Filters Explained: The Data Structure That's Allowed to Be Wrong</a> <sub>video&nbsp;·&nbsp;nov&nbsp;2026</sub><br>
 <a href="https://www.youtube.com/watch?v=p6IQ1S1g60Q">Prompt Caching Explained: Why Repeated Tokens Cost 90% Less</a> <sub>video&nbsp;·&nbsp;nov&nbsp;2026</sub><br>
 <a href="https://www.youtube.com/watch?v=hg55CAJY7Co">What Happens When You Type google.com?</a> <sub>video&nbsp;·&nbsp;nov&nbsp;2026</sub><br>
-<a href="https://www.youtube.com/watch?v=OLAorRb_WuQ">Quantization Explained: How 16 Numbers Run a 70B Model | FP4 vs INT4</a> <sub>video&nbsp;·&nbsp;oct&nbsp;2026</sub><br>
 <a href="https://harshpreet.com/blog/event-based-concurrency">The Hidden Genius of Event Based Concurrency</a> <sub>post&nbsp;·&nbsp;jul&nbsp;2025</sub><br>
 <a href="https://harshpreet.com/blog/operating-system-concepts">All the Operating System Concepts You Need to Know.</a> <sub>post&nbsp;·&nbsp;feb&nbsp;2025</sub><br>
 <a href="https://harshpreet.com/blog/dijkstras-algorithm">Dijkstra's Algorithm is Actually Super Simple</a> <sub>post&nbsp;·&nbsp;jan&nbsp;2025</sub>
